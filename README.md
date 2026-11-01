@@ -18,6 +18,20 @@ This repository documents **how I built my analytics foundation**. It is a learn
 
 ## Contents
 
+Each folder has its own README explaining the course or project, the questions, the approach, the findings and how to run it.
+
+| Folder | Project / course | README |
+|---|---|---|
+| `CuriousIQ 1st Data Analysis Project/` | AdventureWorks sales analysis (CuriousIQ) | [README](CuriousIQ%201st%20Data%20Analysis%20Project/README.md) |
+| `CuriousIQ 2nd Data Analysis Project/` | WorldWideImporters demand-forecasting inputs (CuriousIQ) | [README](CuriousIQ%202nd%20Data%20Analysis%20Project/README.md) |
+| `IBM_Projects/` | IBM Data Analyst Professional Certificate coursework | [README](IBM_Projects/README.md) |
+| `Pandas/` | pandas 5-part practice series | [README](Pandas/README.md) |
+| `Covid_19_DataAnalysis/` | COVID-19 SQL, Tableau and Python | [README](Covid_19_DataAnalysis/README.md) |
+| `SQL/` | Nashville housing data cleaning | [README](SQL/README.md) |
+| `Python/Sales_Data/` | 2019 electronics store sales analysis | [README](Python/Sales_Data/README.md) |
+| `Python/` | Movie correlation analysis, early ASOS experiment | [README](Python/README.md) |
+| `Amazon_Price_Tracker/` | Product price tracker | [README](Amazon_Price_Tracker/README.md) |
+
 ### CuriousIQ Diploma in Data Analysis: business case projects
 
 Case studies on fictional company databases, answering briefs from a business stakeholder.
@@ -50,7 +64,7 @@ Series, DataFrames, functions, importing and exploring data. Notebooks with thei
 | Nashville housing data cleaning | SQL data cleaning (standardising, splitting, de-duplicating) | [`SQL/`](SQL/) |
 | 2019 monthly sales analysis | Combining files, cleaning, answering business questions with pandas | [`Python/Sales_Data/`](Python/Sales_Data/) |
 | Movie industry correlation | Correlation analysis, seaborn | [`Python/`](Python/) |
-| Product price tracker | Python requests and BeautifulSoup for web data collection | [`Amazon Web Scrapping project.ipynb`](Amazon%20Web%20Scrapping%20project.ipynb) |
+| Product price tracker | Python requests and BeautifulSoup for web data collection | [`Amazon_Price_Tracker/`](Amazon_Price_Tracker/) |
 
 ### Early experiments
 
